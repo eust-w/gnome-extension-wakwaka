@@ -1,10 +1,11 @@
-# gnome-extension-wakwaka
+# gnome-extension-wakwaka :sparkles:
 
 u can use that show your code time by wakatime! like that:
-[](!https://github.com/eust-w/gnome-extension-wakwaka/blob/main/sample/a1.png?raw=true)
-[](!https://github.com/eust-w/gnome-extension-wakwaka/blob/main/sample/a2.png?raw=true)
-[](!https://github.com/eust-w/gnome-extension-wakwaka/blob/main/sample/a3.png?raw=true)
-# how to install
+![](https://github.com/eust-w/gnome-extension-wakwaka/blob/main/sample/a1.png?raw=true)
+![](https://github.com/eust-w/gnome-extension-wakwaka/blob/main/sample/a2.png?raw=true)
+![](https://github.com/eust-w/gnome-extension-wakwaka/blob/main/sample/a3.png?raw=true)
+
+# how to install :package:
 
 1. download [eustancewu@gmail.com.shell-extension.zip](https://github.com/eust-w/gnome-extension-wakwaka/raw/main/pack/eustancewu%40gmail.com.shell-extension.zip)
 2. run `gnome-extensions install eustancewu@gmail.com.shell-extension.zip`
